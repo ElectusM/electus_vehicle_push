@@ -1,0 +1,10 @@
+{
+    "push_vehicle": "Push Vehicle",
+    "push_vehicle_title": "Vehicle Push",
+    "push_vehicle_delay": "You have to wait another %s seconds before pushing again",
+    "secondary_button": "Secondary Button",
+    "secondary_button_desc": "Secondary vehicle push button",
+    "steer_right_desc": "Steer the vehicle to the right",
+    "steer_left_desc": "Steer the vehicle to the left",
+    "push_vehicle_text": "Press %s + %s to push the vehicle"
+}
